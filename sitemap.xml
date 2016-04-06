@@ -3,18 +3,18 @@
     http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>http://thinkaliker.com/</loc>
+    <loc>http://nathanlapre.com/</loc>
   </url>
   <url>
-    <loc>http://thinkaliker.com/about</loc>
+    <loc>http://nathanlapre.com/about</loc>
   </url>
   <url>
-    <loc>http://thinkaliker.com/projects</loc>
+    <loc>http://nathanlapre.com/projects</loc>
   </url>
   <url>
-  <loc>http://thinkaliker.com/links</loc>
+  <loc>http://nathanlapre.com/links</loc>
 </url>
   <url>
-    <loc>http://thinkaliker.com/blog/</loc>
+    <loc>http://nathanlapre.com/blog/</loc>
   </url>
 </urlset>
