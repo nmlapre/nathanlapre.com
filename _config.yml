@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: thinkaliker
-email: adam@thinkaliker.com
+title: nathanlapre
+email: nathan@nathanlapre.com
 description: > # this means to ignore newlines until "baseurl:"
-  thinkaliker / Adam Chao
+  Nathan LaPre
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://thinkaliker.com" # the base hostname & protocol for your site
-twitter_username: thinkaliker
-github_username:  thinkaliker
+url: "http://nathanlapre.com" # the base hostname & protocol for your site
+twitter_username: nathanlapre
+github_username:  nmlapre
 
 # Build settings
 markdown: kramdown
